@@ -182,8 +182,8 @@ USBケーブルを抜いてプレートを組付けます。
 
 ## キーマップの確認、変更方法
 標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
-![](img/layout.png)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
+![](img/keymap.jpg)  
+[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/8a9cd944cc1cf5abed875719608a3e3a)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
