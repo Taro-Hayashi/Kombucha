@@ -203,28 +203,18 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
   
-JIS配列、MacのUS配列用のキーマップを用意したのでよろしければ手間を省くのにご利用ください。
-  
-## 直角出しサポートプレート（別売）
-下端は10度傾いています。  
-サポートプレートを使うことで簡単に直角を出すことができます。
-机や液タブの端に貼り付けるときに便利です。
-![](img/angle.png)  
-ボトムプレートなしで取り付ける場合は付属のワッシャーでビスの長さを調節してください。
-
 ## その他
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
   
-VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman.json)  
+VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)  
   
 プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_plates.zip)  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 BOOTH: https://tarohayashi.booth.pm/items/3208122  
-遊舎工房: Coming Soon
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
