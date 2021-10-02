@@ -30,11 +30,11 @@
 |-|-|-|-|
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ|11|Kailhロープロファイル（V1, V2)||
-|キーキャップ|11|対応するもの|1U|
-|7mmオプティカルトラックボールモジュール１uタイプ||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
-|トラックボールモジュール用レベル変換基板||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
-|OLED用ピンヘッダ|||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
-|OLED用ピンソケット|||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1|
+|キーキャップ|11|対応するもの||
+|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
+|トラックボールモジュール用レベル変換基板|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
+|OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
+|OLED用ピンソケット|1|無くても動かせます。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
   
 ## オプション
@@ -85,19 +85,17 @@
 はんだ付けをして足を切ります。  
 ![](img/diode3.jpg)  
 
-TB1にOLED
+裏からTB1にOLED用ピンソケットを差し込み、表ではんだ付けします。  
+ソケットなしでも動きますがトラックボールを何回も抜き差しする場合はあった方が安心です。  
+![](img/socket.jpg)  
 
-リセットスイッチを裏から差し込み表ではんだ付けします。  
-![](img/reset1.jpg)   
-フラックスクリーナーを使う人はここで表面を綺麗にしておきましょう。  
-![](img/reset2.jpg)   
+リセットスイッチを表から差し込み裏ではんだ付けします。  
+![](img/reset.jpg)   
   
 キースイッチを表から差し込みます。  
 ![](img/keyswitch1.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
-choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
-![](img/keyswitch3.jpg)  
   
 メインボードの裏にコンスルーを挿します。  
 ![](img/promicro1.jpg)   
@@ -110,8 +108,10 @@ choc V1スイッチの場合、足が一か所干渉するので短くカット�
   
 Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro3.jpg)   
+Pro Microは表面にも取り付けることができます。  
+使いやすい方を使ってください。  
   
-SW12、SW14に表からホイール型のロータリーエンコーダーを取り付けます。  
+SW6に表からホイール型のロータリーエンコーダーを取り付けます。  
 ピンの位置を確認してツメを穴に差し込みます。  
 ![](img/wheel1.jpg)  
   
@@ -122,12 +122,14 @@ SW12、SW14に表からホイール型のロータリーエンコーダーを取
 差し込めたらはんだ付けします。  
 ![](img/wheel3.jpg)  
   
-SW20に表から水平型のロータリーエンコーダーを取り付けて裏からはんだ付けします。  
-![](img/rot1.jpg)  
-ピンが曲がらないように気を付けましょう。  
-![](img/rot2.jpg)  
-クリップの部分ははんだ付けしなくても構いません。  
-![](img/rot3.jpg)  
+トラックボール、レベル変換基板、OLED用ピンヘッダを画像のようにはんだ付けしましょう。  
+![](img/track1.jpg)  
+
+表からレベル変換基板を通します。  
+![](img/track2.jpg)  
+
+裏面のピンソケットにピンヘッダを差し込みます。  
+![](img/track3.jpg)  
   
 ## 動作テスト
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
@@ -195,6 +197,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/remap3.png)  
   
 ## その他
+
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
   
