@@ -138,7 +138,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman_test.hex)
+- テスト用ファームウェア [kombucha_test.hex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -177,7 +177,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom6.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman_via.hex)
+- [kombucha_via.hex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha_via.hex)
 
 裏面4隅にゴム足を貼ったら完成です。。  
 ![](img/full.jpg)  
@@ -190,7 +190,7 @@ USBケーブルを抜いてプレートを組付けます。
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
 JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
-- [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)
+- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha.json)
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
@@ -204,7 +204,7 @@ JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセ�
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
   
-VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)  
+VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha.json)  
   
 プレートのデザインデータ  
 （準備中）
