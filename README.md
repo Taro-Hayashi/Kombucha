@@ -30,9 +30,11 @@
 |-|-|-|-|
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ|11|Kailhロープロファイル（V1, V2)||
-|キーキャップ|11|対応するもの|1U|
-|7mmオプティカルトラックボールモジュール１uタイプ||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
-|トラックボールモジュール用レベル変換基板||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
+|キーキャップ|11|対応するもの||
+|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
+|トラックボールモジュール用レベル変換基板|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
+|OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
+|OLED用ピンソケット|1|無くても動かせます。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
   
 ## オプション
@@ -82,49 +84,36 @@
   
 はんだ付けをして足を切ります。  
 ![](img/diode3.jpg)  
-  
-はんだ付け難易度の高いレバースイッチを取り付けます。  
-ランドにフラックスを塗って位置決め用の穴に合わせて乗せます。  
-![](img/lever1.jpg)  
-  
-ピンセットでレバースイッチを押さえながら、はんだごてに乗せたはんだを手前のランドにのせていきます。  
-![](img/lever2.jpg)  
-  
-ちょっとプラスチックを溶かしてしまいましたがこの後ちゃんと動きました。  
-![](img/lever3.jpg)  
-  
-左右はレバーを押さえながらはんだ付けします。  
-![](img/lever4.jpg)  
-これら4つは取り付け強度を上げるためのランドで、電気的にはどことも繋がっていません。  
-  
-![](img/lever5.jpg)  
-左右にある二股に分かれている接点ははんだが乗りにくいので無理に接着しなくても大丈夫です。  
-  
-リセットスイッチを裏から差し込み表ではんだ付けします。  
-![](img/reset1.jpg)   
-フラックスクリーナーを使う人はここで表面を綺麗にしておきましょう。  
-![](img/reset2.jpg)   
+
+裏からTB1にOLED用ピンソケットを差し込み、表ではんだ付けします。  
+ソケットなしでも動きますがトラックボールを何回も抜き差しする場合はあった方が安心です。  
+![](img/socket.jpg)  
+
+リセットスイッチを表から差し込み裏ではんだ付けします。  
+![](img/reset.jpg)   
   
 キースイッチを表から差し込みます。  
 ![](img/keyswitch1.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
-choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
-![](img/keyswitch3.jpg)  
   
 メインボードの裏にコンスルーを挿します。  
-![](img/promicro1.jpg)   
+![](img/promicro1.jpg)  
+※新品のPro Microが無かったので別のキットの写真ですが、同様に作っていただいて大丈夫です。  
 コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
 挿すだけではんだ付けはしません。  
   
 コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
 カプトンテープをお持ちの方はここでメインボードとPro Microを絶縁しておくと安心です。  
 ![](img/promicro2.jpg)   
+※新品のPro Microが無かったので別のキットの写真ですが、同様に作っていただいて大丈夫です。
   
 Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro3.jpg)   
+Pro Microは表面にも取り付けることができます。  
+使いやすい方を使ってください。  
   
-SW12、SW14に表からホイール型のロータリーエンコーダーを取り付けます。  
+SW6に表からホイール型のロータリーエンコーダーを取り付けます。  
 ピンの位置を確認してツメを穴に差し込みます。  
 ![](img/wheel1.jpg)  
   
@@ -135,12 +124,14 @@ SW12、SW14に表からホイール型のロータリーエンコーダーを取
 差し込めたらはんだ付けします。  
 ![](img/wheel3.jpg)  
   
-SW20に表から水平型のロータリーエンコーダーを取り付けて裏からはんだ付けします。  
-![](img/rot1.jpg)  
-ピンが曲がらないように気を付けましょう。  
-![](img/rot2.jpg)  
-クリップの部分ははんだ付けしなくても構いません。  
-![](img/rot3.jpg)  
+トラックボール、レベル変換基板、OLED用ピンヘッダを画像のようにはんだ付けしましょう。  
+![](img/track1.jpg)  
+
+表からレベル変換基板を通します。  
+![](img/track2.jpg)  
+
+裏面のピンソケットにピンヘッダを差し込みます。  
+![](img/track3.jpg)  
   
 ## 動作テスト
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
@@ -193,28 +184,30 @@ USBケーブルを抜いてプレートを組付けます。
 
 ## キーマップの確認、変更方法
 標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
-![](img/layout.png)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
+![](img/keymap.jpg)  
+[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/8a9cd944cc1cf5abed875719608a3e3a)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
-ChromeかEdgeでRemapにアクセスしてください。  
+JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
+- [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
-  
+左を選んで進んでいき、ダウンロードしたJSONファイルを指定しましょう。
+![](img/remap2.png)  
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
   
 ## その他
+
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
   
 VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)  
   
 プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha_plates.zip)  
+（準備中）
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
