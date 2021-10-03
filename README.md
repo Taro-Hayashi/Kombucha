@@ -179,7 +179,7 @@ USBケーブルを抜いてプレートを組付けます。
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
 - [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman_via.hex)
 
-ゴム足を貼ったら完成です。。  
+裏面4隅にゴム足を貼ったら完成です。。  
 ![](img/full.jpg)  
 
 ## キーマップの確認、変更方法
