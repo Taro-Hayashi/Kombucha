@@ -98,13 +98,15 @@
 ![](img/keyswitch2.jpg)  
   
 メインボードの裏にコンスルーを挿します。  
-![](img/promicro1.jpg)   
+![](img/promicro1.jpg)  
+※新品のPro Microが無かったので別のキットの写真ですが、同様に作っていただいて大丈夫です。  
 コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
 挿すだけではんだ付けはしません。  
   
 コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
 カプトンテープをお持ちの方はここでメインボードとPro Microを絶縁しておくと安心です。  
 ![](img/promicro2.jpg)   
+※新品のPro Microが無かったので別のキットの写真ですが、同様に作っていただいて大丈夫です。
   
 Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro3.jpg)   
@@ -187,11 +189,12 @@ USBケーブルを抜いてプレートを組付けます。
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
-ChromeかEdgeでRemapにアクセスしてください。  
+JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
+- [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
+左を選んで進んでいき、ダウンロードしたJSONファイルを指定しましょう。
   
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
