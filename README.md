@@ -1,4 +1,4 @@
-# Kombucha トラックボールパッド
+# Kombucha トラックボール
 - [キット内容](#キット内容)
 - [組み立て方（はんだ付け）](#組み立て方はんだ付け)
 - [動作テスト](#動作テスト)
@@ -34,7 +34,7 @@
 |7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
 |トラックボールモジュール用レベル変換基板|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
 |OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
-|OLED用ピンソケット|1|無くても動かせます。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
+|OLED用ピンソケット|1|必須ではありません|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
   
 ## オプション
@@ -179,7 +179,7 @@ USBケーブルを抜いてプレートを組付けます。
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
 - [kombucha_via.hex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha_via.hex)
 
-裏面4隅にゴム足を貼ったら完成です。。  
+裏面4隅にゴム足を貼ったら完成です。  
 ![](img/full.jpg)  
 
 ## キーマップの確認、変更方法
