@@ -4,18 +4,18 @@ LEDのはんだ付けはいつ行っても大丈夫です。
 失敗しても光らないだけなので気軽に挑戦してみてください。   
 
 LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付けしましょう。  
-![](img/led1.jpg)  
-![](img/led2.jpg)  
+![](img/led01.jpg)  
+![](img/led02.jpg)  
 向きがバラバラなので毎回確認してください。  
 メインボードにフラックスを塗り、こて先にのせたはんだを流し込むようにするとスムーズに付けられます。  
 ![](img/led3.jpg)  
 両側のランドにはんだを乗せやすいようにLEDは中央に置くことを意識するといいと思います。  
 
 LEDテスト用のファームウェアです。  
-- [ledtest_default.tex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/ledtest_default.hex)  
+- [ledtest_default.tex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/ledtest_default.hex)  
 
 LEDは直列に配線されています。  
-![](img/led4.jpg)  
+![](img/led04.jpg)  
 ひとつ発光しないLEDがある場合その先のLEDは正しくはんだ付けされていても光らなくなるので画像と見比べてどこが原因かを調べましょう。   
 
 はんだ付けするだけでLEDが使えるようになります。  
