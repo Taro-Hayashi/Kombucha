@@ -179,7 +179,7 @@ USBケーブルを抜いてプレートを組付けます。
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
 - [kombucha_via.hex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha_via.hex)
 
-裏面4隅にゴム足を貼ったら完成です。。  
+裏面4隅にゴム足を貼ったら完成です。  
 ![](img/full.jpg)  
 
 ## キーマップの確認、変更方法
