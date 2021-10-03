@@ -193,7 +193,7 @@ JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセ�
   
 ![](img/remap1.png)  
 左を選んで進んでいき、ダウンロードしたJSONファイルを指定しましょう。
-![](img/remap2.png)  
+![](img/remap2.)  
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
   
