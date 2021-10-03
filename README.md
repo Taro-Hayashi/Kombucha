@@ -34,7 +34,7 @@
 |7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
 |トラックボールモジュール用レベル変換基板|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
 |OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
-|OLED用ピンソケット|1|無くても動かせます。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
+|OLED用ピンソケット|1|必須ではありません|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
   
 ## オプション
