@@ -207,7 +207,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
 VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha.json)  
   
 プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/kombucha_plates.zip)  
+（準備中）
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
