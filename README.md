@@ -193,7 +193,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
-左を選ぶとキーボードを選択できます。
+左を選ぶとキーボードを選択できます。  
 ![](img/remap2.)  
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
