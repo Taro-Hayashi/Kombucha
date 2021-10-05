@@ -211,7 +211,6 @@ VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-BOOTH: https://tarohayashi.booth.pm/items/3252673  
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
@@ -222,3 +221,5 @@ https://github.com/plut0nium/0xLib
 https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
   
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+
+- BOOTH: https://tarohayashi.booth.pm/items/3252673  
