@@ -189,12 +189,11 @@ USBケーブルを抜いてプレートを組付けます。
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
-JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
-- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha.json)
+ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
-左を選んで進んでいき、ダウンロードしたJSONファイルを指定しましょう。
+左を選ぶとキーボードを選択できます。
 ![](img/remap2.)  
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
