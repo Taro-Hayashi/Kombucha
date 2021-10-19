@@ -31,8 +31,8 @@
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ|11|Kailhロープロファイル（V1, V2)||
 |キーキャップ|11|対応するもの||
-|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
-|トラックボールモジュール用レベル変換基板|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
+|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様](https://shop.yushakobo.jp/products/adtb7m)|
+|トラックボールモジュール用レベル変換基板|1||[遊舎工房様](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋様](https://booth.pm/ja/items/2008258)|
 |OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
 |OLED用ピンソケット|1|必須ではありません|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
