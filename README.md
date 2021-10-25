@@ -7,7 +7,7 @@
 - [おまけ](#おまけ)
 
 ## キット内容
-![パーツ一覧](img/parts.jpg)  
+![パーツ一覧](img/IMG_2550.jpg)  
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1|黒・PCB|
@@ -31,8 +31,8 @@
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ|11|Kailhロープロファイル（V1, V2)||
 |キーキャップ|11|対応するもの||
-|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/adtb7m)|
-|トラックボールモジュール用レベル変換基板|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800tl-01-1)|
+|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン様](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
+|トラックボールモジュール用レベル変換基板|1||[遊舎工房様](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋様](https://booth.pm/ja/items/2008258)|
 |OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
 |OLED用ピンソケット|1|必須ではありません|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
@@ -87,12 +87,14 @@
 
 裏からTB1にOLED用ピンソケットを差し込み、表ではんだ付けします。  
 ソケットなしでも動きますがトラックボールを何回も抜き差しする場合はあった方が安心です。  
-![](img/socket.jpg)  
+![](img/socket1.jpg)  
+フラックスクリーナーを使う場合はここで表面を綺麗にしましょう。  
+![](img/socket2.jpg)  
 
 リセットスイッチを表から差し込み裏ではんだ付けします。  
 ![](img/reset.jpg)   
   
-キースイッチを表から差し込みます。  
+キースイッチを表から差し込みはんだ付けします。  
 ![](img/keyswitch1.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
@@ -110,7 +112,7 @@
   
 Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro3.jpg)   
-Pro Microは表面にも取り付けることができます。  
+Pro Microを設置する場所は表側と裏側に2か所あります。 
 使いやすい方を使ってください。  
   
 SW6に表からホイール型のロータリーエンコーダーを取り付けます。  
@@ -137,20 +139,18 @@ SW6に表からホイール型のロータリーエンコーダーを取り付�
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 キットとPCをUSBケーブルでつないでください。   
 
-ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [kombucha_test.hex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha_test.hex)
-- Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
+下のwebサイトにアクセスしてください。
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
-ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
-![](img/promicrowebupdater1.jpg)  
+テストファームウェアを選んでFLASHします。
+![](img/remap02.jpg)  
+![](img/remap03.jpg)  
 
-ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。      
-すると選択欄にArduino Microが出てきてクリックできるようになります。  
-![](img/promicrowebupdater2.jpg)  
+キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します。
+![](img/remap04.jpg) 
 
-選択して接続を押すと書き込みが終わります。  
-![](img/promicrowebupdater3.jpg)  
-ファームウェアを更新する時もこの手順で行います。  
+書き込みが完了したらウィンドウを閉じて大丈夫です。
+![](img/remap05.jpg) 
 
 アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。  
 お疲れ様でした。問題がなければはんだ付けは終了です。
@@ -176,25 +176,24 @@ USBケーブルを抜いてプレートを組付けます。
 
 ![](img/bottom6.jpg)  
 
-キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [kombucha_via.hex](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha_via.hex)
+キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+![](img/remap06.jpg)  
 
 裏面4隅にゴム足を貼ったら完成です。  
 ![](img/full.jpg)  
 
 ## キーマップの確認、変更方法
-標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
 ![](img/keymap.jpg)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/8a9cd944cc1cf5abed875719608a3e3a)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
-JSONファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
-- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha.json)
+ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
-左を選んで進んでいき、ダウンロードしたJSONファイルを指定しましょう。
+左を選ぶとキーボードを選択できます。  
 ![](img/remap2.)  
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
@@ -211,7 +210,6 @@ VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-BOOTH: https://tarohayashi.booth.pm/items/3252673  
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
@@ -222,3 +220,5 @@ https://github.com/plut0nium/0xLib
 https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
   
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+
+- BOOTH: https://tarohayashi.booth.pm/items/3252673  
