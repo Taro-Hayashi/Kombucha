@@ -140,7 +140,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 下のwebサイトにアクセスしてください。
-- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+- https://remap-keys.app/catalog/08BHJ3OcLCe716TwOdDz/firmware
 
 テストファームウェアを選んでFLASHします。
 ![](img/remap02.jpg)  
@@ -177,7 +177,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom6.jpg)  
 
 キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
-- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+- https://remap-keys.app/catalog/08BHJ3OcLCe716TwOdDz/firmware
 ![](img/remap06.jpg)  
 
 裏面4隅にゴム足を貼ったら完成です。  
