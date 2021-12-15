@@ -11,9 +11,9 @@
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1|黒・PCB|
-|2|ミドルプレート1|1|透明・アクリル|
-|3|ミドルプレート2|1|透明・アクリル|
-|4|ボトムプレート|1|黒・PCB|
+|2|ボトムプレート|1|黒・PCB|
+|3|ミドルプレート1|1|透明・アクリル|
+|4|ミドルプレート2|1|透明・アクリル|
 |5|保護プレート|1|透明・アクリル|
 |6|ネジ（短）|2|3mm|
 |7|ネジ（中）|7|4mm|
@@ -34,7 +34,7 @@
 |7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン様](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
 |トラックボールモジュール用レベル変換基板|1||[遊舎工房様](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋様](https://booth.pm/ja/items/2008258)|
 |OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
-|OLED用ピンソケット|1|必須になりました|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
+|OLED用ピンソケット|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
   
 ## オプション
