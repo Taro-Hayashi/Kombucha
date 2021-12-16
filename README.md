@@ -32,10 +32,10 @@
 |コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |キースイッチ|11|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
 |キーキャップ|11||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
-|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房様](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン様](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
-|トラックボールモジュール用レベル変換基板|1||[遊舎工房様](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋様](https://booth.pm/ja/items/2008258)|
-|OLED用ピンヘッダ|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ph-01-1)|
-|OLED用ピンソケット|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a1600ps-01-1)|
+|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
+|トラックボールモジュール用レベル変換基板|1||[遊舎工房](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋](https://booth.pm/ja/items/2008258)|
+|OLED用ピンヘッダ|1||[遊舎工房](https://shop.yushakobo.jp/products/a1600ph-01-1)|
+|OLED用ピンソケット|1||[遊舎工房](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
   
 ## オプション
