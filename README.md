@@ -169,7 +169,7 @@ SW6に表からホイール型のロータリーエンコーダーを取り付�
  
 お疲れ様でした。再び動作を確認して問題がなければはんだ付けは終了です。
 
-## 組み立て方（後半）
+## 組み立て
 USBケーブルを抜いてプレートを組付けます。  
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
 
@@ -197,7 +197,7 @@ USBケーブルを抜いてプレートを組付けます。
 裏面4隅にゴム足を貼ったら完成です。  
 ![](img/full.jpg)  
 
-## キーマップの確認、変更方法
+## カスタマイズ
 ![](img/keymap.jpg)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/8a9cd944cc1cf5abed875719608a3e3a)  
 
@@ -208,11 +208,16 @@ ChromeかEdgeでRemapにアクセスしてください。
   
 ![](img/remap1.png)  
 左を選ぶとキーボードを選択できます。  
-![](img/remap2.)  
+  
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
   
 ## その他
+
+OLED用ピンヘッダはPro Micro付属のピンヘッダを切って使うこともできます。  
+レベル変換基板はソケットを使わずに基板にはんだ付けしてしまっても構いません。  
+余ったコンスルーから4ピンを切り出して使うとOLED用ピンヘッダ、OLED用ピンソケットは使わずに作ることができます。  
+![](img/IMG_5760.jpg)  
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
