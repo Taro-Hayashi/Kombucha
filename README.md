@@ -31,8 +31,8 @@
 |Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro) / [TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3) / [DailyCraftKeyboardコンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
 |キースイッチ|11|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ|11|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
-|7mmオプティカルトラックボールモジュール１uタイプ|1|[遊舎工房](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
-|トラックボールモジュール用レベル変換基板|1|[遊舎工房](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋](https://booth.pm/ja/items/2008258)|
+|１uトラックボール|1|[遊舎工房](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
+|レベル変換基板|1|[遊舎工房](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋](https://booth.pm/ja/items/2008258)|
 |OLED用ピンヘッダ|1|[遊舎工房](https://shop.yushakobo.jp/products/a1600ph-01-1)|
 |OLED用ピンソケット|1|[遊舎工房](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
