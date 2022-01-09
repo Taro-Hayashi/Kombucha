@@ -10,11 +10,11 @@
 ![パーツ一覧](img/IMG_4844.jpg)  
 ||部品名|数| |
 |-|-|-|-|
-|1|メインボード|1|黒・PCB|
-|2|ボトムプレート|1|黒・PCB|
-|3|ミドルプレート1|1|透明・アクリル|
-|4|ミドルプレート2|1|透明・アクリル|
-|5|保護プレート|1|透明・アクリル|
+|1|メインボード|1||
+|2|ボトムプレート|1||
+|3|ミドルプレート1|1||
+|4|ミドルプレート2|1||
+|5|保護プレート|1||
 |6|ネジ（短）|2|3mm|
 |7|ネジ（中）|7|4mm|
 |8|ネジ（長）|9|6mm|
@@ -25,26 +25,27 @@
 |13|ロータリーエンコーダ|1|EVQWGD001|
 |14|ゴム足|4||
 
-## キット以外に必要なもの
+### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
 |Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro) / [TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3) / [DailyCraftKeyboardコンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー12ピン (高さ2mmか2.5mm)|2|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough)|
-|キースイッチ|18|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|18|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
+
+|キースイッチ|11|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|11|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
 |7mmオプティカルトラックボールモジュール１uタイプ|1|[遊舎工房](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
 |トラックボールモジュール用レベル変換基板|1|[遊舎工房](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋](https://booth.pm/ja/items/2008258)|
 |OLED用ピンヘッダ|1|[遊舎工房](https://shop.yushakobo.jp/products/a1600ph-01-1)|
 |OLED用ピンソケット|1|[遊舎工房](https://shop.yushakobo.jp/products/a1600ps-01-1)|
 |Micro USB ケーブル|1||
   
-## LED（[取り付け方](led.md)）
+### LED（[取り付け方](led.md)）
 |部品名|数|||
 |-|-|-|-|
+|コンスルー12ピン (高さ2.5mm)|2|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough)|
 |SK6812MINI-E|11|バックライト|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |WS2812B|6|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
  
-## 必要な工具
+### 必要な工具
 |工具名|
 |-|
 |はんだごて|
@@ -52,9 +53,10 @@
 |鉛入りはんだ|
 |精密ドライバー|
 |ニッパー等ダイオードの足を切れるもの|
+|エポシキ接着剤|
 |Microsoft Edge、もしくはGoogle Chrome|
 
-## あると便利な工具
+### あると便利な工具
 |工具名||Amazon|
 |-|-|-|
 |耐熱シリコンマット|
@@ -68,12 +70,20 @@
 |はんだ吸い取り線|
 |はんだ吸い取り器|
 
+## 準備
+キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
+![](img/IMG_4972.jpg)  
+両サイドと手前側のはんだ付けされてるところに少し厚めに塗ります。端子の中に入り込まないように気を付けます。
+![](img/IMG_5093.jpg)  
+黒い基板のPro Microを使う場合は必須の工程ではありません。  
+乾燥させている間にはんだ付けを進めましょう。  
+
 ## 組み立て方（はんだ付け）
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～)  [YouTube](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)
   
-それではダイオードをD1からD12まで取り付けます。  
+ダイオードをD1からD12まで取り付けます。  
 足を曲げて裏から差し込みます。  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
 ![](img/diode1.jpg)  
