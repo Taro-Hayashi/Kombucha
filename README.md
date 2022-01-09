@@ -26,49 +26,47 @@
 |14|ゴム足|4||
 
 ## キット以外に必要なもの
-|部品名|数|||
-|-|-|-|-|
-|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/promicro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
-|キースイッチ|11|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|11||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
-|7mmオプティカルトラックボールモジュール１uタイプ|1||[遊舎工房](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
-|トラックボールモジュール用レベル変換基板|1||[遊舎工房](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋](https://booth.pm/ja/items/2008258)|
-|OLED用ピンヘッダ|1||[遊舎工房](https://shop.yushakobo.jp/products/a1600ph-01-1)|
-|OLED用ピンソケット|1||[遊舎工房](https://shop.yushakobo.jp/products/a1600ps-01-1)|
-|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
+|部品名|数||
+|-|-|-|
+|Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro) / [TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3) / [DailyCraftKeyboardコンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
+|コンスルー12ピン (高さ2mmか2.5mm)|2|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough)|
+|キースイッチ|18|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|18|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
+|7mmオプティカルトラックボールモジュール１uタイプ|1|[遊舎工房](https://shop.yushakobo.jp/products/adtb7m)、[ビットトレードワン](https://btoshop.jp/products/adtb7m)、[Amazon](https://www.amazon.co.jp/dp/B087BVNWYS)|
+|トラックボールモジュール用レベル変換基板|1|[遊舎工房](https://shop.yushakobo.jp/products/a0800tl-01-1)、[のぎけす屋](https://booth.pm/ja/items/2008258)|
+|OLED用ピンヘッダ|1|[遊舎工房](https://shop.yushakobo.jp/products/a1600ph-01-1)|
+|OLED用ピンソケット|1|[遊舎工房](https://shop.yushakobo.jp/products/a1600ps-01-1)|
+|Micro USB ケーブル|1||
   
-## オプション
+## LED（[取り付け方](led.md)）
 |部品名|数|||
 |-|-|-|-|
-|バックライトLED（SK6812MINI-E）|11|[取り付け方](led.md)|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
-|アンダーグローLED（WS2812B）|6|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
-|表面実装タイプのダイオード（1N4148W）|12||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
+|SK6812MINI-E|11|バックライト|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
+|WS2812B|6|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
  
 ## 必要な工具
-100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
-|工具名|Amazon|
-|-|-|
-|はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
-|こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
-|鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
-|精密ドライバー|[TSD-6](https://amzn.to/3dEQvm7)|
-|ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
-|Microsoft Edge、もしくはGoogle Chrome||
+|工具名|
+|-|
+|はんだごて|
+|こて先クリーナー（こて台）|
+|鉛入りはんだ|
+|精密ドライバー|
+|ニッパー等ダイオードの足を切れるもの|
+|Microsoft Edge、もしくはGoogle Chrome|
 
 ## あると便利な工具
 |工具名||Amazon|
 |-|-|-|
-|耐熱シリコンマット||[ノーブランド](https://amzn.to/3rYlcuW)|
-|温度調節可能なはんだごて|★|[FX600-02](https://amzn.to/3oKNQOg)|[]()|
-|斜めに切ったタイプのこて先|★|[FX600用 T18-C2](https://amzn.to/3pGqbNW)|
-|フラックス|★|[HAKKO 001-01](https://amzn.to/3dNy4vr)|
-|フラックスリムーバー、IPA|★|[GZ901](https://amzn.to/3yeiMtj)|
-|ピンセット|★|[ANEX ピンセット No.126](https://amzn.to/3GxKNPp)|
-|マスキングテープ|★|[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
-|テスター||[TDX-200](https://amzn.to/3rXlaDI)|
-|はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
-|はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
+|耐熱シリコンマット|
+|温度調節可能なはんだごて|
+|斜めに切ったタイプのこて先|
+|フラックス|
+|フラックスリムーバー、IPA|
+|ピンセット|
+|マスキングテープ|
+|テスター|
+|はんだ吸い取り線|
+|はんだ吸い取り器|
 
 ## 組み立て方（はんだ付け）
 はんだ付けのやり方は動画で見るとわかりやすいです。  
