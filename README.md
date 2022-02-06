@@ -219,7 +219,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/IMG_5760.jpg)  
 
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/kombucha
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/kombucha
   
 VIA用JSONファイル [kombucha.json](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.15/kombucha.json)  
   
